@@ -1,7 +1,7 @@
 # Hello-World
 This is the first repository on github, as i am new in programming or on Github.
 Hey Guys
-I am a noob in programming, i recentely stated with Python.
+I am a noob in programmer, i recently stated with Python.
 As i hear it's easy to learn, compare to others.
 If you have any kind of suggestions or any kind of materials, please help me.
 
